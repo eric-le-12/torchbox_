@@ -1,0 +1,11 @@
+torch
+torchvision
+sklearn
+barbar
+scikit-learn
+numpy
+pandas
+neptune-client
+pretrainedmodels
+torchsummary
+efficientnet_pytorch

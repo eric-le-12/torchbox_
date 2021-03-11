@@ -1,0 +1,14 @@
+venv
+saved/log
+saved/models/*.txt
+saved/models
+saved/logs
+saved/logs/*.txt
+temp_ml
+.pth
+.txt
+.jpg
+.pyc
+dataset
+.csv
+multi_lead_data_split.py
